@@ -1,9 +1,9 @@
 # Linear-Block-Code
 
-AIM
+# AIM
 To perform Linear Block Code operation for the specified input.
 
-TOOLS REQUIRED
+# TOOLS REQUIRED
 
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 ~~~~
@@ -107,10 +107,15 @@ add1 = add % 2
 print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ~~~~
 
-Output:
+# Output:
 
 ![image](https://github.com/user-attachments/assets/a26cd94f-ddd8-4d5e-bee8-6d06e666aee3)
 
-RESULT
+# GRAPH:
+
+![image](https://github.com/user-attachments/assets/fc893545-3850-4658-b20c-160d9d64622c)
+
+
+# RESULT:
 
 Thus linear block code operation for the given input is successfully verified.
